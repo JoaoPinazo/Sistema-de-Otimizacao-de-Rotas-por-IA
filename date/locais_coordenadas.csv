@@ -1,0 +1,13 @@
+Mapeia o ID de cada local (restaurante, cruzamentos, clientes) para coordenadas (X, Y) para uso no clustering.
+  local_id,x,y
+Restaurante,50,50
+A,10,20
+B,15,80
+C,30,40
+D,40,70
+E,60,30
+F,70,60
+G,80,10
+H,90,40
+I,20,5
+J,55,85
