@@ -1,0 +1,11 @@
+Uma lista dos pedidos ativos que precisam ser entregues, referenciando o local_id.
+
+pedido_id,local_id
+101,A
+102,I
+103,B
+104,J
+105,G
+106,E
+107,H
+108,F
